@@ -8,7 +8,7 @@ My work includes a commercial platform with browser-based telephony, a property 
 
 | Project | What I built | Explore |
 | --- | --- | --- |
-| **ConectaYa** | Lead capture, CRM, sales workflows and browser VoIP. By August 2026: 100,000+ leads and 40+ simultaneously active call centre agents and collaborators. | [Technical case study](https://github.com/ricardohg1998-create/conectaya-case-study) |
+| **ConectaYa** | Lead capture, CRM, sales workflows and browser VoIP. By August 2026: 100,000+ leads and 40+ active call centre agents and collaborators. | [Technical case study](https://github.com/ricardohg1998-create/conectaya-case-study) |
 | **Metricasa** | A property valuation flow connected to Catastro data and an internal CRM. Private beta. | [Technical case study](https://github.com/ricardohg1998-create/metricasa-case-study) |
 | **Ricardo · CRM** | One relationship history across projects, shared web/MCP operations and follow-up workflows. Includes a runnable demo with fictional data. | [Case study and demo](https://github.com/ricardohg1998-create/ricardo-crm-case-study) |
 | **Sector Prospector** | A Python/SQLite research pipeline used in my pharmacy and real-estate work: source evidence, identity, recipient deduplication and delivery batches. | [Source code and offline demo](https://github.com/ricardohg1998-create/sector-prospector) |
