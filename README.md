@@ -8,8 +8,9 @@ My work includes a commercial platform with browser-based telephony, a property 
 
 - **Speed-to-lead of 20 minutes or less** after implementing Clientify with Meta Lead Forms, web forms and Idealista.
 - **50% lower cost per lead** in three months ($42 to $21) with Meta Ads, Conversions API and automated response.
-- **309 pipeline opportunities**, 259 managed by me, and 30 property sales worth over €8M.
-- **100,000+ leads and 40+ agents** on a CRM platform I designed and shipped.
+- **309 pipeline opportunities**, 259 managed by me, and direct involvement in closing 30 property transactions worth over €8M.
+- **100,000+ leads and 40+ active agents and collaborators** on a CRM platform I designed and shipped.
+- **Teams of 3–5 people** coordinated directly through CRM rollout, automation and reporting.
 
 ## Selected work
 
@@ -31,7 +32,7 @@ My work includes a commercial platform with browser-based telephony, a property 
 
 I work mainly with **TypeScript, React, Next.js, relational databases and Python**. I build and operate agent workflows, and use AI coding tools alongside code review, automated tests and browser checks. Each case explains the business problem, my role and the implementation decisions.
 
-Tools I use for CRM and automation: **HubSpot, Clientify, n8n, Make, Zapier, SQL, Looker Studio, GA4 and Meta Conversions API**.
+Tools I use for CRM, automation and reporting: **HubSpot, Clientify, n8n, Make, Zapier, SQL, Power BI, Looker Studio, GA4 and Meta Conversions API**.
 
 **Open to full-time CRM, RevOps, Marketing Operations and automation roles**, in Seville, remote (Spain or international, in English) or with relocation. Available immediately.
 
